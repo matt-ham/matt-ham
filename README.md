@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 My name is Matthew Hamilton
+
 
 <!--
 **matt-ham/matt-ham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
