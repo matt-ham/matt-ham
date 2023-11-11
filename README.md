@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is Matthew
-### 📚 I'm currently a second year student in Computer Science
-### 🧠 I'm interested in software engineering and development
+### 📚 I'm currently a fourth year student in Computer Science
+### 🧠 I'm interested in software engineering, data science and development
 
 
 <!--
